@@ -1,6 +1,14 @@
 # totalpass-icons
 All icons TotalPass
 
+### How to user:
+Always use the prefix `icon`, followed by the icon name, as [demo](https://felipemengatto.github.io/totalpass-icons/).
+
+**Ex:**
+```html
+<i class="icon-angle-left"></i>
+```
+
 ### Demo:
 https://felipemengatto.github.io/totalpass-icons/
 

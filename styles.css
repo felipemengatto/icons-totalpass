@@ -143,3 +143,15 @@
 .icon-pie-chart:before {
   content: "\49";
 }
+
+.icon-2x {
+  font-size: 2rem;
+}
+
+.icon-3x {
+  font-size: 3rem;
+}
+
+.icon-4x {
+  font-size: 4rem;
+}
