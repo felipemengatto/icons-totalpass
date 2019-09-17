@@ -144,6 +144,10 @@
   content: "\49";
 }
 
+.icon-1x {
+  font-size: 1.550rem;
+}
+
 .icon-2x {
   font-size: 2rem;
 }
