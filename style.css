@@ -1,18 +1,17 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?chh04i');
-  src:  url('fonts/icomoon.eot?chh04i#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?chh04i') format('truetype'),
-    url('fonts/icomoon.woff?chh04i') format('woff'),
-    url('fonts/icomoon.svg?chh04i#icomoon') format('svg');
+  font-family: 'totalpass-icons';
+  src:
+    url('fonts/totalpass-icons.ttf?isqj0l') format('truetype'),
+    url('fonts/totalpass-icons.woff?isqj0l') format('woff'),
+    url('fonts/totalpass-icons.svg?isqj0l#totalpass-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'totalpass-icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;

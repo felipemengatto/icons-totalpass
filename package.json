@@ -1,5 +1,5 @@
 {
-  "name": "icons-totalpass",
+  "name": "totalpass-icons",
   "version": "1.0.0",
   "description": "All icons TotalPass",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felipemengatto/icons-totalpass.git"
+    "url": "git+https://github.com/felipemengatto/totalpass-icons.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felipemengatto/icons-totalpass/issues"
+    "url": "https://github.com/felipemengatto/totalpass-icons/issues"
   },
-  "homepage": "https://github.com/felipemengatto/icons-totalpass#readme"
+  "homepage": "https://github.com/felipemengatto/totalpass-icons#readme"
 }
