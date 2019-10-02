@@ -31,6 +31,7 @@
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
+  font-size: 1.550rem !important;
   text-transform: none !important;
   speak: none;
   line-height: 1;
@@ -145,7 +146,7 @@
 }
 
 .icon-1x {
-  font-size: 1.550rem;
+  font-size: 1.850rem;
 }
 
 .icon-2x {
