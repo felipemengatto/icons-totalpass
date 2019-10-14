@@ -152,3 +152,19 @@
 .icon-area-chart:before {
   content: "\4c";
 }
+
+.icon-1x {
+  font-size: 1.850rem;
+}
+
+.icon-2x {
+  font-size: 2rem;
+}
+
+.icon-3x {
+  font-size: 3rem;
+}
+
+.icon-4x {
+  font-size: 4rem;
+}
