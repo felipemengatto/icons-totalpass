@@ -31,7 +31,6 @@
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
-  font-size: 1.550rem !important;
   text-transform: none !important;
   speak: none;
   line-height: 1;
@@ -144,19 +143,12 @@
 .icon-pie-chart:before {
   content: "\49";
 }
-
-.icon-1x {
-  font-size: 1.850rem;
+.icon-times:before {
+  content: "\4a";
 }
-
-.icon-2x {
-  font-size: 2rem;
+.icon-ban:before {
+  content: "\4b";
 }
-
-.icon-3x {
-  font-size: 3rem;
-}
-
-.icon-4x {
-  font-size: 4rem;
+.icon-area-chart:before {
+  content: "\4c";
 }
