@@ -152,6 +152,9 @@
 .icon-area-chart:before {
   content: "\4c";
 }
+.icon-bars:before {
+  content: "\4d";
+}
 
 .icon-1x {
   font-size: 1.350rem;
