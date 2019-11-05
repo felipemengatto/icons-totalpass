@@ -119,18 +119,6 @@
 .icon-sign-out:before {
   content: "\41";
 }
-.icon-user-plus:before {
-  content: "\42";
-}
-.icon-user:before {
-  content: "\43";
-}
-.icon-user-times:before {
-  content: "\44";
-}
-.icon-users:before {
-  content: "\45";
-}
 .icon-plus-1:before {
   content: "\46";
 }
@@ -154,6 +142,12 @@
 }
 .icon-bars:before {
   content: "\4d";
+}
+.icon-home:before {
+  content: "\42";
+}
+.icon-network:before {
+  content: "\43";
 }
 
 .icon-1x {
