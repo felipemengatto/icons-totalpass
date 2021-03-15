@@ -2,7 +2,7 @@
 All icons TotalPass
 
 ### How to user:
-Always use the prefix `icon`, followed by the icon name, as [demo](https://felipemengatto.github.io/totalpass-icons/).
+Always use the prefix `icon`, followed by the icon name, as [demo](https://totalpass.github.io/totalpass-icons/).
 
 **Ex:**
 ```html
